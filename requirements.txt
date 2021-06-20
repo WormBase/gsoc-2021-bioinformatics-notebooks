@@ -5,7 +5,6 @@ requests
 pandas
 matplotlib
 wget
-gzip
 shutil
 ftplib
 sys
