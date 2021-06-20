@@ -5,5 +5,3 @@ requests
 pandas
 matplotlib
 wget
-sys
-json
