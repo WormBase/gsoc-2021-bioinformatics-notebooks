@@ -5,6 +5,5 @@ requests
 pandas
 matplotlib
 wget
-ftplib
 sys
 json
