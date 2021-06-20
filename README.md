@@ -4,9 +4,9 @@ This repository comprises of tutorials to help you get familiarised with the dat
 
 ### Table of Contents:
 #### Data Retrieval
-- Exploring WormBase FTP
-- WormMine using intermine
-- Getting data from ParaSite
-- Extracting Gene level information (from WormBase Restful API)
+- Exploring WormBase FTP: [![Binder](https://mybinder.org/v2/gh/WormBase/gsoc-2021-bioinformatics-notebooks/0d2771fdb6520bd06e284c4e1a117697b402bcef)
+- WormMine using intermine: [![Binder](https://mybinder.org/v2/gh/WormBase/gsoc-2021-bioinformatics-notebooks/0d2771fdb6520bd06e284c4e1a117697b402bcef)
+- Getting data from ParaSite: [![Binder](https://mybinder.org/v2/gh/WormBase/gsoc-2021-bioinformatics-notebooks/0d2771fdb6520bd06e284c4e1a117697b402bcef)
+- Extracting Gene level information (from WormBase Restful API): [![Binder](https://mybinder.org/v2/gh/WormBase/gsoc-2021-bioinformatics-notebooks/0d2771fdb6520bd06e284c4e1a117697b402bcef)
 
 .
