@@ -5,3 +5,11 @@ requests
 pandas
 matplotlib
 wget
+numpy
+urllib3
+iPython
+biopython
+tissue_enrichment_analysis
+rpy2
+wormcat_batch
+regex
