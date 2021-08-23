@@ -25,5 +25,5 @@ You can easily access all the tutorials here and run them using mybinder: [![Bin
  
  #### Simple data utilities
  - Genome Data Viewer: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WormBase/gsoc-2021-bioinformatics-notebooks/e46e2b3f99b4622cc19e587214292a1aef89e258?filepath=Tutorial-13-utilities-genome-data-viewer.ipynb)
- - WormCat: This is currently unavailable on Binder due to R-magic dependency. It will be resolved soon!
+ - WormCat: This is currently unavailable on Binder due to R-magic dependency. It will be resolved soon! [IPython version](https://github.com/WormBase/gsoc-2021-bioinformatics-notebooks/blob/main/Tutorial-14-utilities-wormcat.ipynb)
  - Chromosome Map: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WormBase/gsoc-2021-bioinformatics-notebooks/e46e2b3f99b4622cc19e587214292a1aef89e258?filepath=Tutorial-15-utilities-chromosome-map.ipynb)
