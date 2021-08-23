@@ -4,6 +4,9 @@ This repository comprises of tutorials to help you get familiarised with the dat
 You can easily access all the tutorials here and run them using mybinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WormBase/gsoc-2021-bioinformatics-notebooks/da6ac22cfa80b3a6ef72b9d0ec476b57301ff51f)
 
 ### Table of Contents:
+
+-Setup: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WormBase/gsoc-2021-bioinformatics-notebooks/da6ac22cfa80b3a6ef72b9d0ec476b57301ff51f?filepath=Tutorial-00-setup.ipynb)
+
 #### Data Retrieval
 - Exploring WormBase FTP: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WormBase/gsoc-2021-bioinformatics-notebooks/da6ac22cfa80b3a6ef72b9d0ec476b57301ff51f?filepath=Tutorial-01-retrieve-data-ftp.ipynb)
 - WormMine using intermine: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WormBase/gsoc-2021-bioinformatics-notebooks/da6ac22cfa80b3a6ef72b9d0ec476b57301ff51f?filepath=Tutorial-02-retrieve-data-wormmine.ipynb)
